@@ -17,12 +17,19 @@ html {
   background-color: blue;
 }
 
+.cabecalho {
+}
+
 /*Exemplo de seletores*/
 /*Seletores de tipo*/
 h1 {
   color: red;
   font-size: 5em;
   text-align: center;
+  font-family: "Cinzel", serif;
+}
+h2 {
+  font-family: "Cinzel", serif;
 }
 
 /*Seletores de classe*/
