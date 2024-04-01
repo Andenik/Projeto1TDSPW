@@ -84,3 +84,8 @@ form {
 p {
   color: green;
 }
+
+button {
+  background-color: blue; /* Cor de fundo azul */
+  color: white; /* Texto branco */
+}
