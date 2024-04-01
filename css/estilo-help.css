@@ -15,3 +15,7 @@ h2 {
 .cabecalho {
   background-color: blue;
 }
+
+nav {
+  font-weight: bold;
+}

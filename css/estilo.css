@@ -17,9 +17,6 @@ html {
   background-color: blue;
 }
 
-.cabecalho {
-}
-
 /*Exemplo de seletores*/
 /*Seletores de tipo*/
 h1 {
@@ -40,6 +37,7 @@ h2 {
   background-color: rgb(255, 0, 0, 0.2);
   border-radius: 5px;
   transition: background-color 0.3s ease-in;
+  font-weight: bold;
 
   /*Nesting elementos*/
   /*Nesting pseudo-elementos*/
@@ -62,4 +60,8 @@ h2 {
 /*Seletores de ID*/
 #menu ul {
   text-align: center;
+}
+
+nav {
+  font-weight: bold;
 }
