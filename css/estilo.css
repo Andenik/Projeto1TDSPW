@@ -89,3 +89,6 @@ button {
   background-color: blue; /* Cor de fundo azul */
   color: white; /* Texto branco */
 }
+footer {
+  border: 2px solid red;
+}
